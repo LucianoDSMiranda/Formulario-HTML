@@ -8,4 +8,3 @@
 
 - Imagem de exemplo quando alguma informação esta errada.
 
-<img src="./ImageExibir/imgExemplo.png" width="808px" />
